@@ -31,17 +31,18 @@ This project is a fully responsive and interactive e-commerce website frontend, 
 ```plaintext
 project-folder/
 │
-├── index.html             # Main HTML file
-├── css/
-│   ├── style.css          # Custom styles
-│   └── themify.css        # Themify CSS
-├── js/
-│   ├── script.js          # Custom JavaScript
-├── images/
-│   └── (image files)      # Image assets used in the design
-├── fonts/
-│   └── (font files)       # Fonts used in the design
-└── README.md              # Project documentation
+├── index.html                 # Main HTML file
+├── assets/
+│   ├── css/
+│   │   ├── style.css          # Custom styles
+│   │   └── themify.css        # Themify CSS
+│   ├── js/
+│   │   ├── script.js          # Custom JavaScript
+│   ├── images/
+│   │   └── (image files)      # Image assets used in the design
+│   └── fonts/
+│      └── (font files)        # Fonts used in the design
+└── README.md                  # Project documentation
 ```
 
 ## Dependencies
