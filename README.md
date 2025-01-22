@@ -1,4 +1,4 @@
-# README for E-Commerce Frontend Website Design
+# E-Commerce Frontend Website Design
 
 ## Project Overview
 
